@@ -1,2 +1,5 @@
 faltou
 print("teste")
+
+def(x)
+	if <0
